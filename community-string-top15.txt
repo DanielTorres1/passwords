@@ -1,0 +1,15 @@
+public
+private
+cisco
+snmp
+SNMP
+community
+password
+PUBLIC
+PRIVATE
+CISCO
+admin
+nagios
+router
+root
+switch
