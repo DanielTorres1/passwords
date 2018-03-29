@@ -46,8 +46,8 @@ sudo crunch 8 8 1234567890 -o 8digits.txt
 
 
 echo -e "${RED}[+]${GREEN} Descomprimiendo archivos ${RESET}"
-sudo tar -xjvf rockyou-real-databreach.tar.bz2
-sudo rm rockyou-real-databreach.tar.bz2
+sudo cat *.tar.bz2 | tar -jxvf - -i
+sudo rm *.tar.bz2
 
 
 cd base/nombres
