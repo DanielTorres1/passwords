@@ -25,3 +25,5 @@ soporte
 soporte123
 Soporte123
 default
+mysql
+root
