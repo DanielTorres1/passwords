@@ -18,6 +18,7 @@ admin
 passw0rd
 Passw0rd
 P@ssw0rd
+Pa$$w0rd
 password1
 Password123
 Passw0rd!
