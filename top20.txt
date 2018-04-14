@@ -20,6 +20,10 @@ Passw0rd
 P@ssw0rd
 Pa$$w0rd
 password1
+password12
+password123
+Password1
+Password12
 Password123
 Passw0rd!
 soporte
