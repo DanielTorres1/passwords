@@ -28,7 +28,10 @@ Password123
 Passw0rd!
 soporte
 soporte123
+cisco
 Soporte123
 default
+adm123
+adm123$
 mysql
 root
