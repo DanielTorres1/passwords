@@ -32,6 +32,7 @@ cisco
 Soporte123
 default
 adm123
+admin123
 adm123$
 mysql
 root
