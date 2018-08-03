@@ -20,6 +20,8 @@ aaaaaa
 abc123
 admin
 admin123
+administrador
+administrator
 alberto
 alejandra
 alejandro
