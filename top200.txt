@@ -54,6 +54,7 @@ joshua
 justin
 liverpool
 login
+manager
 matrix
 merlin
 mysql
@@ -78,7 +79,9 @@ P@ssw0rd
 qazwsx
 qwerty
 roberto
+role1
 root
+s3cret
 sa
 sebastian
 soporte
@@ -89,5 +92,7 @@ superman
 tequiero
 test
 testing
+tomcat
 tweety
+vagrant
 windows
