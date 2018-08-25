@@ -36,9 +36,8 @@ blahblah
 bug
 carlos
 chocolate
-daniel
+ChangeMe
 default
-diablo
 dragon
 elite
 estrella
@@ -49,8 +48,10 @@ internet
 jennifer
 jessica
 jesus
+default
 jordan
 joshua
+vcoadmin
 justin
 liverpool
 login
@@ -96,3 +97,4 @@ tomcat
 tweety
 vagrant
 windows
+vmware
