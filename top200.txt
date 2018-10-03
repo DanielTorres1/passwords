@@ -46,12 +46,15 @@ estrella
 football
 forum
 futbol
+!manage
 internet
 jennifer
-jessica
+badg3r5
+Wonderware
+cisco
 jesus
 default
-jordan
+prtgadmin
 joshua
 vcoadmin
 justin
@@ -61,7 +64,6 @@ manager
 matrix
 merlin
 mysql
-nicole
 pass
 passport
 passw0rd
@@ -75,7 +77,7 @@ Password12
 password123
 Password123
 Pa$$w0rd
-playboy
+456
 pokemon
 postgres
 P@ssw0rd
