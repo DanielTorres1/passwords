@@ -19,6 +19,10 @@ qwerty
 666666
 696969
 aaaaaa
+toor
+ftp
+test
+anonymous
 abc123
 admin
 admin123
@@ -26,6 +30,7 @@ administrador
 administrator
 alberto
 alejandra
+guest
 alejandro
 amanda
 andrea
