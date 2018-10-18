@@ -9,10 +9,12 @@
 12345
 qwert
 qwerty
+admadm
 123456
 1234567
 12345678
 123456789
+adm123
 1234567890
 123abc
 654321
@@ -20,6 +22,7 @@ qwerty
 696969
 aaaaaa
 toor
+987654
 ftp
 test
 anonymous
