@@ -52,10 +52,8 @@ internet
 badg3r5
 Wonderware
 cisco
-jesus
 default
 prtgadmin
-joshua
 vcoadmin
 login
 manager
