@@ -35,6 +35,7 @@
 aaaaaa
 abc123
 adm123
+123.abc
 admadm
 admin
 admin123
@@ -73,6 +74,7 @@ Password12
 password123
 Password123
 Pa$$w0rd
+123.abc
 postgres
 prtgadmin
 P@ssw0rd
