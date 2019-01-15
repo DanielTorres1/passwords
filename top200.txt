@@ -53,7 +53,7 @@ cisco
 default
 elite
 ftp
-google
+sqlserver123*
 guest
 internet
 login
