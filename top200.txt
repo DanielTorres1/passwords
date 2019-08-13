@@ -75,6 +75,9 @@ Password12
 password123
 Password123
 Pa$$w0rd
+Pa$$w0rd2018
+Pa$$w0rd2019
+Control123.
 123.abc
 postgres
 prtgadmin
