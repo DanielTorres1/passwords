@@ -30,6 +30,7 @@
 aaaaaa
 abc123
 adm123
+Pa$$w0rd
 123.abc
 admadm
 admin
