@@ -63,8 +63,10 @@ Password123
 Pa$$w0rd
 Pa$$w0rd2018
 Pa$$w0rd2019
+solokey
 Control123.
 Cambiar123
+adm*123
 123.abc
 P@ssw0rd
 qazwsx
